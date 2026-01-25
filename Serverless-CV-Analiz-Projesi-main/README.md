@@ -21,5 +21,3 @@ Kullanıcılar PDF formatındaki CV'lerini sisteme yükler. Sistem, belirlenen k
 4.  **Save:** AI'dan gelen Puan ve Özet bilgisi DynamoDB'ye kaydedilir.
 5.  **Result:** Sonuçlar frontend ekranında anlık olarak listelenir.
 
----
-*Geliştirici: Ekrem*
